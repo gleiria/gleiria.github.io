@@ -1,7 +1,7 @@
 baseURL = 'https://gleiria.github.io/'
 languageCode = 'en-gb'
 theme = "anatole"
-publishDir = 'docs'
+
 
 [params]
 title = "Code Currents"
