@@ -1,0 +1,10 @@
+baseURL = 'https://gleiria.github.io/'
+languageCode = 'en-gb'
+theme = "anatole"
+publishDir = 'docs'
+
+[params]
+title = "Code Currents"
+author = "Gonçalo Leiria"
+description = "Exploring computer science, data, and clinical-AI"
+
