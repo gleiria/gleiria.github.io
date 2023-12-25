@@ -1,10 +1,12 @@
 baseURL = 'https://gleiria.github.io/'
 languageCode = 'en-gb'
 theme = "anatole"
+enableEmoji = true
 
 
 [params]
-title = "Code Currents"
+title = "Gonçalo Leiria"
 author = "Gonçalo Leiria"
-description = "Exploring computer science, data, and clinical-AI"
-
+description = "Exploring Computer Science, Data, and Clinical-AI"
+profilePicture = "images/profile_picture.png"
+mainSections = ["blog"]
