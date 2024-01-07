@@ -6,4 +6,3 @@ draft = false
 
 Hello world! :earth_africa:
 
-This will be my first post on parallel computing. Stay tunned!

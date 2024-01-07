@@ -5,8 +5,8 @@ enableEmoji = true
 
 
 [params]
-title = "Gonçalo Leiria"
+title = "Code Currents"
 author = "Gonçalo Leiria"
-description = "Exploring Computer Science, Data, and Clinical-AI"
+description = "Exploring Computer Science and Clinical-AI"
 profilePicture = "images/profile_picture.png"
 mainSections = ["blog"]
