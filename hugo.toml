@@ -27,6 +27,12 @@ mainSections = ["blog"]
   identifier = "blog"
   url = "/blog/"
 
+  [[menu.main]]
+  name = "Contact"
+  weight = 3
+  identifier = "contact"
+  url = "/contact/"
+
   [[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "LinkedIn"
