@@ -7,7 +7,7 @@ enableEmoji = true
 [params]
 title = "Code Currents"
 author = "Gonçalo Leiria"
-description = "Exploring Computer Science and Clinical-AI"
+description = "⚠️ website under construction ⚠️"
 profilePicture = "images/profile_picture.png"
 mainSections = ["blog"]
 
@@ -19,7 +19,7 @@ mainSections = ["blog"]
   name = "Home"
   identifier = "home"
   weight = 1
-  url = "/"
+  url = "/home/"
 
   [[menu.main]]
   name = "Blog"
@@ -28,7 +28,7 @@ mainSections = ["blog"]
   url = "/blog/"
 
   [[menu.main]]
-  name = "Contact"
+  name = "contact"
   weight = 3
   identifier = "contact"
   url = "/contact/"
