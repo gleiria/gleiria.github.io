@@ -7,7 +7,8 @@ enableEmoji = true
 [params]
 title = "Code Currents"
 author = "Gonçalo Leiria"
-description = "⚠️ website under construction ⚠️"
+description = """Exploring Computer Science, Data and Clinical-AI
+⚠️ website under construction ⚠️"""
 profilePicture = "images/profile_picture.png"
 mainSections = ["blog"]
 
