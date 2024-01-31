@@ -45,4 +45,4 @@ This concludes my very first blog post. I hope I could convince, using a practic
 
 In the next post on this series, I will introduce genetic algorithms, a fascinating technique that willl help. Massive search space. Stay tunned. Love to all. 
 Stochastic models are very common in fields like epidemiology, economics, and environmental science, precisely because they can capture the uncertainty and variability inherent in real-world systems.
-    Optimizing in the context of such models often requires special techniques that take this randomness into account.
+    Optimizing in the context of such models often requires special techniques that take this randomness into account.d
