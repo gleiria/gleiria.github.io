@@ -6,16 +6,15 @@
     <description>Recent content in Blogs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 25 Dec 2023 17:58:10 +0000</lastBuildDate><atom:link href="https://gleiria.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jan 2024 11:43:42 +0000</lastBuildDate><atom:link href="https://gleiria.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Firts Plog Post</title>
-      <link>https://gleiria.github.io/blog/my-first-plog-post/</link>
-      <pubDate>Mon, 25 Dec 2023 17:58:10 +0000</pubDate>
+      <title>Microsimulations - Part 1</title>
+      <link>https://gleiria.github.io/blog/january/</link>
+      <pubDate>Sun, 14 Jan 2024 11:43:42 +0000</pubDate>
       
-      <guid>https://gleiria.github.io/blog/my-first-plog-post/</guid>
+      <guid>https://gleiria.github.io/blog/january/</guid>
       
-        <description>Hello world! &amp;#x1f30d;
-This is my very first blog post. One a month!</description>
+        <description>The concept of using computers to simulate real-world systems has been around for many decades. However, in recent years, with the democratization and significant cost reductions of computational power, increased data availability, and advancements in artificial inteligence, computational simulations have reached new levels of sophistication and their applications, particularly in the healthcare domain, are expanding very rapidly. This blog post series provides an overview on microsimulations and explores how integrating machine learning and multi-objective optimisation into these systems can effectively tackle a concrete healthcare challenge: optimising type 1 diabetes screening strategies while minimizing costs associated.</description>
       
     </item>
     
