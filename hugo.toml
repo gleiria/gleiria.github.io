@@ -4,10 +4,11 @@ theme = "anatole"
 enableEmoji = true
 
 
+
 [params]
-title = "Code Currents"
+title = "Gonçalo Leiria"
 author = "Gonçalo Leiria"
-description = """Exploring Computer Science, Python and Clinical-AI
+description = """Exploring Computing and Health Data Science
 ⚠️ website under construction ⚠️"""
 profilePicture = "images/profile_picture.png"
 mainSections = ["blog"]
@@ -34,7 +35,30 @@ mainSections = ["blog"]
   identifier = "contact"
   url = "/contact/"
 
-  [[params.socialIcons]]
+[[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "LinkedIn"
 url = "https://www.linkedin.com/in/gleiria/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:g.n.leiria@exeter.ac.uk"
+
+
+
+
+
+
+
+
+
+      
+   
+
+
+
+
+
+
+
