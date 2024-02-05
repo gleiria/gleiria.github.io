@@ -6,7 +6,7 @@ enableEmoji = true
 [params]
 title = "Gonçalo Leiria"
 author = "Gonçalo Leiria"
-description = """Exploring Computer Science and AI in Health Care
+description = """Exploring Computer Science, Python and AI in Health Care
 ⚠️ website under construction ⚠️"""
 profilePicture = "images/profile_picture.png"
 mainSections = ["blog"]
