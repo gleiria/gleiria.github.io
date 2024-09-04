@@ -2,21 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gleiria.github.io/</loc>
-    <lastmod>2024-01-14T11:43:42+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-02-19T18:24:31+00:00</lastmod>
   </url><url>
-    <loc>https://gleiria.github.io/blog/</loc>
-    <lastmod>2024-01-14T11:43:42+00:00</lastmod>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-02-19T18:24:31+00:00</lastmod>
   </url><url>
-    <loc>https://gleiria.github.io/blog/january/</loc>
-    <lastmod>2024-01-14T11:43:42+00:00</lastmod>
+    <loc>http://localhost:1313/blog/february/</loc>
+    <lastmod>2024-02-19T18:24:31+00:00</lastmod>
   </url><url>
-    <loc>https://gleiria.github.io/contact/</loc>
+    <loc>http://localhost:1313/blog/january/</loc>
+    <lastmod>2024-01-31T11:43:42+00:00</lastmod>
   </url><url>
-    <loc>https://gleiria.github.io/home/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://gleiria.github.io/categories/</loc>
+    <loc>http://localhost:1313/home/</loc>
   </url><url>
-    <loc>https://gleiria.github.io/tags/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
