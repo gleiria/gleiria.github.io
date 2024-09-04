@@ -1,7 +1,7 @@
 +++
 title = 'Microsimulations - Part 2'
 date = 2024-02-19T18:24:31Z
-draft = false
+draft = true
 +++
 
 ### Optimisation and Genetic Algorithms

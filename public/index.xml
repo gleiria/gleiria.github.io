@@ -2,28 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://gleiria.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 14 Jan 2024 11:43:42 +0000</lastBuildDate><atom:link href="https://gleiria.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 18:24:31 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsimulations - Part 2</title>
+      <link>http://localhost:1313/blog/february/</link>
+      <pubDate>Mon, 19 Feb 2024 18:24:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/february/</guid>
+      
+        <description>Optimisation and Genetic Algorithms When I first came across evolutionary biology and how life on the planet went from unicellular origanisms to the astonishing biodiversity on our planet that we observe nowadays I got completely fascinated by it. Think about about natural selection - the most important mechanism of evolution - at the genome level. Organisms that are more adapted to their environment (fittest in evolutionary jargon) are more likely to survive and pass on the genes that aided their success.</description>
+      
+    </item>
+    
     <item>
       <title>Microsimulations - Part 1</title>
-      <link>https://gleiria.github.io/blog/january/</link>
-      <pubDate>Sun, 14 Jan 2024 11:43:42 +0000</pubDate>
+      <link>http://localhost:1313/blog/january/</link>
+      <pubDate>Wed, 31 Jan 2024 11:43:42 +0000</pubDate>
       
-      <guid>https://gleiria.github.io/blog/january/</guid>
+      <guid>http://localhost:1313/blog/january/</guid>
       
-        <description>The concept of using computers to simulate real-world systems has been around for many decades. However, in recent years, with the democratization and significant cost reductions of computational power, increased data availability, and advancements in artificial inteligence, computational simulations have reached new levels of sophistication and their applications, particularly in the healthcare domain, are expanding very rapidly. This blog post series provides an overview on microsimulations and explores how integrating machine learning and multi-objective optimisation into these systems can effectively tackle a concrete healthcare challenge: optimising type 1 diabetes screening strategies while minimizing costs associated.</description>
+        <description>The idea of using computers to simulate real-world systems has been around for many decades. However, in recent years, with the democratization and significant cost reductions of computational power, increased data availability, and advancements in artificial inteligence, computational simulations have reached new levels of sophistication and their applications, particularly in the healthcare domain, are expanding very rapidly. This blog post series provides an overview on microsimulations and explores how integrating machine learning and multi-objective optimisation into these systems can effectively tackle a concrete healthcare challenge: optimising type 1 diabetes screening strategies while minimizing costs associated.</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://gleiria.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gleiria.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       
         <description>⚠️ under construction ⚠️
 Please do get in touch if you have any questions or comments.
@@ -33,14 +44,13 @@ Email: g.n.leiria@exeter.ac.uk</description>
     
     <item>
       <title></title>
-      <link>https://gleiria.github.io/home/</link>
+      <link>http://localhost:1313/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gleiria.github.io/home/</guid>
+      <guid>http://localhost:1313/home/</guid>
       
-        <description>⚠️ under construction ⚠️ Where my happiest version lives ⚠️ under construction ⚠️
-Hi, I&amp;rsquo;m Gonçalo, thank you for being here and welcome to my website!
-XXXXXXXXXXXXX &amp;mdash;-&amp;raquo;&amp;raquo;&amp;raquo;&amp;gt;</description>
+        <description>Hi, I&amp;rsquo;m Gonçalo, welcome to my personal website. 🚀🚀🚀
+I am a Graduate Research Assistant in the Department of Computer Science at the University of Exeter in the United Kingdom. Currently, I am working at the intersection of research software engineering, the development of microsimulations, and multi-objective optimisation, with a focus on developing clinical decision support tools in health care. Prior to this, I have worked as a bioinformatician, mainly involded in projects using single-cell RNA sequencing data analysis to explore the underlying molecular mechanisms of health, development and disease.</description>
       
     </item>
     
