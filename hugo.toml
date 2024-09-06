@@ -6,7 +6,7 @@ enableEmoji = true
 [params]
 title = "Gonçalo Leiria"
 author = "Gonçalo Leiria"
-description = """Personal Website and Blog
+description = """Personal Webpage
 ⚠️ under construction ⚠️"""
 profilePicture = "images/profile_picture.png"
 mainSections = ["blog"]
