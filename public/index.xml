@@ -6,18 +6,7 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 19 Feb 2024 18:24:31 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Microsimulations - Part 2</title>
-      <link>http://localhost:1313/blog/february/</link>
-      <pubDate>Mon, 19 Feb 2024 18:24:31 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/february/</guid>
-      
-        <description>Optimisation and Genetic Algorithms When I first came across evolutionary biology and how life on the planet went from unicellular origanisms to the astonishing biodiversity on our planet that we observe nowadays I got completely fascinated by it. Think about about natural selection - the most important mechanism of evolution - at the genome level. Organisms that are more adapted to their environment (fittest in evolutionary jargon) are more likely to survive and pass on the genes that aided their success.</description>
-      
-    </item>
-    
+    <lastBuildDate>Wed, 31 Jan 2024 11:43:42 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microsimulations - Part 1</title>
       <link>http://localhost:1313/blog/january/</link>
@@ -49,8 +38,8 @@ Email: g.n.leiria@exeter.ac.uk</description>
       
       <guid>http://localhost:1313/home/</guid>
       
-        <description>Hi, I&amp;rsquo;m Gonçalo, welcome to my personal website. 🚀🚀🚀
-I am a Graduate Research Assistant in the Department of Computer Science at the University of Exeter in the United Kingdom. Currently, I am working at the intersection of research software engineering, the development of microsimulations, and multi-objective optimisation, with a focus on developing clinical decision support tools in health care. Prior to this, I have worked as a bioinformatician, mainly involded in projects using single-cell RNA sequencing data analysis to explore the underlying molecular mechanisms of health, development and disease.</description>
+        <description>Hi, I&amp;rsquo;m Gonçalo, welcome to my personal website.
+I am a Graduate Research Assistant in the Department of Computer Science at the University of Exeter in the United Kingdom. Currently, I am working at the intersection of research software engineering, the development of microsimulations, and multi-objective optimisation, with a focus on decision analytic modelling in health care. Prior to this, I have worked as a bioinformatician, mainly involded in projects using single-cell RNA sequencing data analysis to explore the underlying molecular mechanisms of health, development and disease.</description>
       
     </item>
     

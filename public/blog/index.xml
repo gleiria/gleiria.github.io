@@ -8,17 +8,6 @@
     <language>en-gb</language>
     <lastBuildDate>Mon, 19 Feb 2024 18:24:31 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Microsimulations - Part 2</title>
-      <link>http://localhost:1313/blog/february/</link>
-      <pubDate>Mon, 19 Feb 2024 18:24:31 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/february/</guid>
-      
-        <description>Optimisation and Genetic Algorithms When I first came across evolutionary biology and how life on the planet went from unicellular origanisms to the astonishing biodiversity on our planet that we observe nowadays I got completely fascinated by it. Think about about natural selection - the most important mechanism of evolution - at the genome level. Organisms that are more adapted to their environment (fittest in evolutionary jargon) are more likely to survive and pass on the genes that aided their success.</description>
-      
-    </item>
-    
-    <item>
       <title>Microsimulations - Part 1</title>
       <link>http://localhost:1313/blog/january/</link>
       <pubDate>Wed, 31 Jan 2024 11:43:42 +0000</pubDate>
