@@ -5,7 +5,7 @@ I am a Graduate Research Assistant in the Department of Computer Science at the 
 
 Beyond my professional life, I have a huge passion for longboard surfing and I love spending my free time in the ocean either surfing or swimming in open water. 
 
-Please consider having a look at my [blog](/blog/), where I write about topics I am interested in and/or working on. 
+Please consider having a look at my [blog](/blog/), where I write about topics I am interested in and/or working on. xxx yyy zzz
 
 Love to all :sunny: :sunny: :sunny:.
 
