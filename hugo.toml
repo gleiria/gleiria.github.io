@@ -9,7 +9,7 @@ author = "Gonçalo Leiria"
 description = """Personal Webpage
 ⚠️ under construction ⚠️"""
 profilePicture = "images/profile_picture.png"
-mainSections = ["blog"]
+mainSections = [""]
 
 
 
