@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 01 Aug 2024 11:43:42 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microsimulations</title>
-      <link>http://localhost:1313/blog/january/</link>
+      <link>http://localhost:1313/blog/microsimulations/</link>
       <pubDate>Thu, 01 Aug 2024 11:43:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/january/</guid>
+      <guid>http://localhost:1313/blog/microsimulations/</guid>
       
         <description>The idea of using computers to simulate real-world systems has been around for many decades. However, in recent years, with the democratization and significant cost reductions of computational power, increased data availability, and advancements in artificial inteligence, computational simulations have reached new levels of sophistication and their applications, particularly in the healthcare domain, are expanding very rapidly. This blog post series provides an overview on microsimulations and explores how integrating machine learning and multi-objective optimisation into these systems can effectively tackle a concrete healthcare challenge: optimising type 1 diabetes screening strategies while minimizing costs associated.</description>
       
