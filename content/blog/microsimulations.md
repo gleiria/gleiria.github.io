@@ -20,7 +20,7 @@ This is where we focus on modelling the biological and clinical progression of t
 {{< figure src="/images/diagram.png" title="Figure 1: Representation of States in the Microsimulation. Every simulant starts in a healthy state and eventually transitions to various possible intermediate disease states (single auto-antibody(Ab1), multi auto-antibody(mAb1) and dysglycemic) up until the type 1 diabetes state with or without a diabetic ketoacidosis (DKA) event at onset." >}}
 The interaction between these classes is crucial for simulating the progression of the disease over time in each individual. Each class has methods that define the rules for transitioning to other states. For example, the "healthy" class has a method that handles the transitions of individuals to either "Autoantibody Positive (Ab1)", Multiple Autoantibodies (mAb1)', or remaining in the 'healthy" state, based on certain criteria or transition probability. In addition to state transitions, these classes also share data with each other and trigger events that influence the overall simulation, such as adjusting individual transition probabalitites or aging simulants at every simulation cycle. 
 
-
+{{< figure src="/diagram.png" title="Figure 1: Representation of States in the Microsimulation. Every simulant starts in a healthy state and eventually transitions to various possible intermediate disease states (single auto-antibody(Ab1), multi auto-antibody(mAb1) and dysglycemic) up until the type 1 diabetes state with or without a diabetic ketoacidosis (DKA) event at onset." >}}
 
 ### Modeling Children
 
