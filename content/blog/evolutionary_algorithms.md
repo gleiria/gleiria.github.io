@@ -59,6 +59,12 @@ We merge the two populations (parents + offspring) and decide which solutions ar
 
 
 
+Previous post:
+
+Now that we can start to test multiple 'what if' scenarions (i.e screening strategies) we may also integrate multi-objective optimisation techniques into the system. What would happen if we would screen children at different ages? Whould that reduce hospitalisations? What if every child was screened at the age of three, and only those at high genetic risk at later stages? How can we optimise for the most effective screening strategies while incurring the lowest possible costs for health care systems? The search space for potential screening strategies is huge, considering a 15-year timeline simulation where each year could employ 11 different screening strategies, for instance, 0 for screening no one, 1 for screening everyone, and the values from 0.1 to 0.9 representing screening the top 10% to 90%, in increments of 10%, of individuals based on the highest genetic risk scores. This creates a massive search space of possibilities, theoretically expanding to 11^15 possible solutions. In the next post in this series, we will explore how multi-objective optimisation techniques can help us to search for "good enough" solutions at the expense of possibly not finding the absolute best solution. We will delve into a fascinating class of heuristic algorithms inspired by natural evolution and the selection of species, known as genetic algortihms, and explore how these powerful computational methods mimic the process of natural selection to iteratively improve upon solutions to complex problems. Stay tunned! 🚀
+
+
+
 
 
 
