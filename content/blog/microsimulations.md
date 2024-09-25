@@ -14,6 +14,8 @@ Microsimulations are individual-based state-transition models that operate at th
 
 In this particular case, the development of our microsimulation system has six main stages: disease modeling, modeling a population of children, computing transition probabilities, model validation, multi-objective optimisation, and development of a user interface for the model using Django. Below, we discuss the first three of these stages. Details on model validation, multi-objective optimisation and Django integration will be reserved for later a later posts. 
 
+{{< figure src="/images/sao_pedro_day.jpg" title="Where my happiest version lives." >}}
+
 ### Disease Modelling
 
 This is where we focus on modelling the biological and clinical progression of the disease. The core of the disease modeling are six distinct health/disease states (figure 1), each encapsulated by its own Python class.
