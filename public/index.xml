@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://gleiria.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 01 Aug 2024 11:43:42 +0000</lastBuildDate><atom:link href="https://gleiria.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Aug 2024 11:43:42 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microsimulations</title>
-      <link>https://gleiria.github.io/blog/microsimulations/</link>
+      <link>http://localhost:1313/blog/microsimulations/</link>
       <pubDate>Thu, 01 Aug 2024 11:43:42 +0000</pubDate>
       
-      <guid>https://gleiria.github.io/blog/microsimulations/</guid>
+      <guid>http://localhost:1313/blog/microsimulations/</guid>
       
         <description>The idea of using computers to simulate real-world systems has been around for many decades. However, in recent years, with the democratisation and significant cost reductions of computational power, increased data availability, and advancements in artificial inteligence, computational simulations have reached new levels of sophistication and their applications, particularly in healthcare, are expanding very rapidly. This blog provides an overview on microsimulations and explores how integrating machine learning and multi-objective optimisation into these systems can help us to tackle a concrete healthcare challenge: optimising type 1 diabetes screening strategies while minimizing costs associated.</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title></title>
-      <link>https://gleiria.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gleiria.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       
         <description>⚠️ under construction ⚠️
 Please do get in touch if you have any questions or comments.
@@ -33,10 +33,10 @@ Email: g.n.leiria@exeter.ac.uk</description>
     
     <item>
       <title></title>
-      <link>https://gleiria.github.io/home/</link>
+      <link>http://localhost:1313/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gleiria.github.io/home/</guid>
+      <guid>http://localhost:1313/home/</guid>
       
         <description>Hi, I&amp;rsquo;m Gonçalo, welcome to my personal website.
 I am a Graduate Research Assistant in the Department of Computer Science at the University of Exeter in the United Kingdom. Currently, I am working at the intersection of research software engineering, the development of microsimulations, and multi-objective optimisation, with a focus on decision analytic modelling in health care. Prior to this, I have worked as a bioinformatician, mainly involded in projects using single-cell RNA sequencing data analysis to explore the underlying molecular mechanisms of health, development and disease.</description>
