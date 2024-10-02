@@ -39,7 +39,7 @@ The full implementation of the baseline simulation presents an excellent opportu
 
 With the baseline model implemented we might be tempted to start testing multiple 'what if' scenarios which is perhaps the most powerfull feature of microsimulations. But before we do, can we really trust our model? Does it accurately reflect the real-world system it is trying to represent? In the next blog post, we will explore how to assess the validity of the model and its input data, and whether its predictions align well with real-world outcomes. Ultimately, we need to determine if our model is a true and reliable representation of the system we are simulating. Stay tuned! 🚀
 
-{{< figure src="/images/new_diagram.jpg" >}}
+{{< figure src="/images/xxx.jpg.jpg" >}}
  -------------------------------------------
  {{< figure src="/images/IMG20230405192956.jpg" >}}
 
