@@ -46,5 +46,7 @@ With the baseline model implemented we might be tempted to start testing multipl
 -----------------------------------------------------
 {{< figure src="/images/hugo_logo.png" >}}
 
+{{< figure src="/images/profile_picture.png" >}}
+
 
 
