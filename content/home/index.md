@@ -10,7 +10,7 @@ Please have a look at my [blog](/blog/), where I write about topics I am learnin
 Love to all :sunny: :sunny: :sunny:.
 
 
-{{< figure src="/images/sao_pedro_day.jpg" title="Where my happiest version lives." >}}
+{{< figure src="/images/Ribeira_Dilhas.jpg" title="Ribeira d'Ilhas, Ericeira, Portugal." >}}
 
 
 
