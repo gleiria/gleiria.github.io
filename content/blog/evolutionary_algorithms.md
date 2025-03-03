@@ -8,7 +8,7 @@ draft = true
 
 ---------------------------------------------------
 
-When I first came across evolutionary biology and how life on the planet went from unicellular origanisms to the astonishing biodiversity on our planet that we observe nowadays I got completely fascinated by it. Think about about natural selection - the most important mechanism of evolution - at the genome level. Organisms that are more adapted to their environment (fittest in evolutionary jargon) are more likely to survive and pass on the genes that aided their success. This process causes species to change and diverge over time. Genetic mutations that are beneficial to an individual's survival are passed on through reproduction. This results in a new generation of organisms that are more likely to survive to reproduce.
+When I first came across evolutionary biology and how life on the planet went from unicellular origanisms to the astonishing biodiversity on our planet that we observe nowadays I got completely fascinated by it. Think about about natural selection. Organisms that are more adapted to their environment (fittest in evolutionary jargon) are more likely to survive and pass on the genes that aided their success. This process causes species to change and diverge over time. Genetic mutations that are beneficial to an individual's survival are passed on through reproduction. This results in a new generation of organisms that are more likely to survive to reproduce.
 
 
 Natural selection - enhanced reproducion by "fitter" individuals - is the most important mechanism of evolution and mechanisms that produce genetic variety are the fuel (have the potential) for evolution to act upon.  
