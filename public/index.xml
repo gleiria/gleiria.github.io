@@ -14,7 +14,7 @@
       
       <guid>http://localhost:1313/blog/microsimulations/</guid>
       
-        <description>The idea of using computers to simulate real-world systems has been around for many decades. However, in recent years, with the democratisation and significant cost reductions of computational power, increased data availability, and advancements in artificial inteligence, computational simulations have reached new levels of sophistication and their applications, particularly in healthcare, are expanding very rapidly. This blog post provides an overview on microsimulations and explores how integrating machine learning and multi-objective optimisation into these systems can help us to tackle a concrete healthcare challenge: optimising type 1 diabetes screening strategies while minimizing costs associated.</description>
+        <description>&lt;p&gt;The idea of using computers to simulate real-world systems has been around for many decades. However, in recent years, with the democratisation and significant cost reductions of computational power, increased data availability, and advancements in artificial inteligence, computational simulations have reached new levels of sophistication and their applications, particularly in healthcare, are expanding very rapidly. This blog post provides an overview on microsimulations and explores how integrating machine learning and multi-objective optimisation into these systems can help us to tackle a concrete healthcare challenge: optimising type 1 diabetes screening strategies while minimizing costs associated.&lt;/p&gt;</description>
       
     </item>
     
@@ -25,9 +25,9 @@
       
       <guid>http://localhost:1313/contact/</guid>
       
-        <description>⚠️ under construction ⚠️
-Please do get in touch if you have any questions or comments.
-Email: g.n.leiria@exeter.ac.uk</description>
+        <description>&lt;p&gt;⚠️ under construction ⚠️&lt;/p&gt;
+&lt;p&gt;Please do get in touch if you have any questions or comments.&lt;/p&gt;
+&lt;p&gt;Email: &lt;a href=&#34;mailto:g.n.leiria@exeter.ac.uk&#34;&gt;g.n.leiria@exeter.ac.uk&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -38,8 +38,8 @@ Email: g.n.leiria@exeter.ac.uk</description>
       
       <guid>http://localhost:1313/home/</guid>
       
-        <description>Hi, I&amp;rsquo;m Gonçalo, welcome to my personal website.
-I am a Graduate Research Assistant in the Department of Computer Science at the University of Exeter in the United Kingdom. Currently, I am working at the intersection of research software engineering, the development of microsimulations, and multi-objective optimisation, with a focus on decision analytic modelling in health care. Prior to this, I have worked as a bioinformatician, mainly involded in projects using single-cell RNA sequencing data analysis to explore the underlying molecular mechanisms of health, development and disease.</description>
+        <description>&lt;p&gt;Hi, I&amp;rsquo;m Gonçalo, welcome to my personal website.&lt;/p&gt;
+&lt;p&gt;I am a Graduate Research Assistant in the Department of Computer Science at the University of Exeter in the United Kingdom. Currently, I am working at the intersection of research software engineering, the development of microsimulations, and multi-objective optimisation, with a focus on decision analytic modelling in health care. Prior to this, I have worked as a bioinformatician, mainly involded in projects using single-cell RNA sequencing data analysis to explore the underlying molecular mechanisms of health, development and disease. I also like to keep a close eye on the way that artificial intelligence is reshaping education and society in general.&lt;/p&gt;</description>
       
     </item>
     
