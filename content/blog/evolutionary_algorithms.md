@@ -1,35 +1,22 @@
 +++
-title = 'Microsimulations - Part 2'
+title = 'Genetic Algorithms'
 date = 2024-02-19T18:24:31Z
 draft = true
 +++
 
-### Optimisation and Genetic Algorithms
 
----------------------------------------------------
+When I first came across evolutionary biology and how life on the planet evolved from unicellular organisms to the astonishing biodiversity that we observe nowadays I got fascinated by it. Think about about natural selection -  organisms that are more adapted to their environment are more likely to survive and pass on the genes that aided their success ("survival of the fittest"). Genetic mutations that are beneficial to an individual's survival are passed on through reproduction resulting in a new generation that is more likely to survive and reproduce. Therefore genetic variety, or the mechanisms that lead to it, are the fuel for evolution to act upon.  
 
-When I first came across evolutionary biology and how life on the planet went from unicellular origanisms to the astonishing biodiversity on our planet that we observe nowadays I got completely fascinated by it. Think about about natural selection. Organisms that are more adapted to their environment (fittest in evolutionary jargon) are more likely to survive and pass on the genes that aided their success. This process causes species to change and diverge over time. Genetic mutations that are beneficial to an individual's survival are passed on through reproduction. This results in a new generation of organisms that are more likely to survive to reproduce.
+By that time, I had absolutely no idea about what evolutionary computation was so the idea of using algorithms inspired by natural selection to solve real world problems is completely mind blowing to me. In this article, I will, at a very high level, introduce genetic algorithms and, in case you are new to them, try to give you some intuition on how this fascinating class of evolutionary alogrithms work and can be used to find solutions to real world problems.
 
-
-Natural selection - enhanced reproducion by "fitter" individuals - is the most important mechanism of evolution and mechanisms that produce genetic variety are the fuel (have the potential) for evolution to act upon.  
-
-
-
-During that period, I got exposed to Darwinian evolution for the very first time and became completely fascinated by it. and how it took us from unicellular organims to biodiversity that we have nowadays. By that time, I had absolutely no idea about what evolutionary computation was so when the idea of using algorithms inspired by natural selection to solve real world problems is completely mind blowing to me. In this article, I will briefly introduce genetic algorithms and, in case you are new to them, give you some intuition on how this fascinating class evolutionary alogrithms work and can be used to find solutions to real world problems.
-
-# Multi-Objective Optimisation 
-
-Multi-objective optimisation is concerned with finding solutions to a problem with multiple, normally conflicting objectives. If you recal from my previous post (link) our problem was clearly defined: In the context of general population screening, we aimed to optimise for the best screening strategy (one that reduces hospitalisations the most) at the lowest possible cost to a health care system. It is clear that these two objectives conflict with one another; the more we screen the less hospitalisations we will have but the costs will be higher. 
-
-
-# The search space
-
-Imagine that the following vector represents an hypotetical screening strategy to be adopted by a health care system in a 15 years window.
+Consider that the following vector represents a hypotetical strategy to be adopted by a health care system in a 15 year timeline.
 
 {{< figure src="/images/vector.png" title="" >}}
 
-Each entry in the vector represents the screening strategy for that particular year. For example, at year 1 no one in the population would would be screened, the same for year two, at year three the 30% individuals at most risk would be screened, at year four no one would be screened again, at year five the 70% individuals at most risk would be screened, at year seven 100% of the population would be screened and no more screening would take place until year 15. Thw search space is massive. For each entry in the vector there are 11 possible strategies. Given that we have a vector of size 15 there are 11^15 possible solutions possible solutions to be implemented. It is simply impractical to exaushtively analyse this search space and evaluate how good each different solution is with respect to our objectives (1) minimise hospitalisations by performing screening and 2) keep costs as low as possible). And here is where the magic happens; we give to the algorithm the task of exploring this massive search space and find the best solutions for us. 
+At each step, we have 11 possible strategies to choose from. For example, these strategies could represent different levels of intervention (it doesn't really matter what the intervention is), such as 0 for no action, 1 for full intervention, and values like 0.1, 0.2, ..., 0.9 representing partial interventions at varying degrees. The size of this search space (all possible feasible solutions) is astonishing. There are 11^15 possible combinations in this vector and it is simply impractical to exaushtively analyse this search space. Now, imagine we want to find the most effective strategy in the vector above. It is simply impractical to exaushtively analyse this search space and evaluate how good each different solution is with respect to some objective we might have (this could be the cheapest strategy to implement while reducing intensive care visits at the same time). And here is where the magic happens; we give this task to a genetic algorithm to do this for us. 
 
+
+GAs are 1) population based, 2) adaptive (Simulates Darwianian evolution) genes, selection, fitness, reproductions, crossover, mutation
 
 ## General workflow
 
@@ -56,6 +43,13 @@ The ouput of mating is a new offspring population. Thus, at this stage we have t
 4. Survival
 
 We merge the two populations (parents + offspring) and decide which solutions are worth keeping and which can be discarded. The output of the survival step in a new parent population that will enter the second generation (iteration) of the algorithm and step one starts again.
+
+
+# Exciting applications
+
+# Limitations
+
+
 
 
 
