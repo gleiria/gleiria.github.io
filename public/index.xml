@@ -6,7 +6,37 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 03 Mar 2025 18:17:58 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jan 2026 13:31:45 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distributed Computing for Health Data - 1</title>
+      <link>http://localhost:1313/blog/distributed_computing_for_health_data_1/</link>
+      <pubDate>Mon, 05 Jan 2026 13:31:45 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/distributed_computing_for_health_data_1/</guid>
+      
+        <description>&lt;h3 id=&#34;lesson-1---key-concepts&#34;&gt;Lesson 1 - Key Concepts&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The 3 Vs of Big Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A classic way to understand big data is through the 3 Vs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Volume&lt;/strong&gt; - how much data we have&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Velocity&lt;/strong&gt; - how fast data is generated and needs to be processed&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Variety&lt;/strong&gt; - how many different forms the data takes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In healthcare, all three Vs show up at once and that’s what makes the domain both challenging and powerful.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Microsimulations</title>
+      <link>http://localhost:1313/blog/microsimulations/</link>
+      <pubDate>Sat, 01 Nov 2025 11:43:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/microsimulations/</guid>
+      
+        <description>&lt;p&gt;The idea of using computers to simulate real-world systems has been around for many decades. However, in recent years, with the democratisation and significant cost reductions of computational power, increased data availability, and advancements in artificial inteligence, computational simulations have reached new levels of sophistication and their applications, particularly in the healthcare care domain, are expanding very rapidly. This blog post provides a very brief overview on microsimulations and how integrating machine learning and multi-objective optimisation into these systems can help us to tackle a concrete healthcare challenge: optimising type 1 diabetes screening strategies while minimizing costs associated.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Genetic_algorithms</title>
       <link>http://localhost:1313/posts/genetic_algorithms/</link>
@@ -15,17 +45,6 @@
       <guid>http://localhost:1313/posts/genetic_algorithms/</guid>
       
         <description>&lt;p&gt;Adding test here vdvdffdgflw;gjrelkw;gjrefklwghjnkrfngnfdlksn&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Microsimulations</title>
-      <link>http://localhost:1313/blog/microsimulations/</link>
-      <pubDate>Sat, 01 Mar 2025 11:43:42 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/microsimulations/</guid>
-      
-        <description>&lt;p&gt;The idea of using computers to simulate real-world systems has been around for many decades. However, in recent years, with the democratisation and significant cost reductions of computational power, increased data availability, and advancements in artificial inteligence, computational simulations have reached new levels of sophistication and their applications, particularly in the healthcare care domain, are expanding very rapidly. This blog post provides a very brief overview on microsimulations and how integrating machine learning and multi-objective optimisation into these systems can help us to tackle a concrete healthcare challenge: optimising type 1 diabetes screening strategies while minimizing costs associated.&lt;/p&gt;</description>
       
     </item>
     
