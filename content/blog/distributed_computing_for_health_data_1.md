@@ -185,7 +185,7 @@ In this course, we focus on three core technologies:
 
 * Apache Kafka – designed for low-latency, real-time data streaming
 
-Together, these tools form the backbone of many modern big data health applications. (I'm not sure that Hadoop is still used in modern applications but I think it is good to have a mental model of how it works) (more on this later)
+Together, these tools form the backbone of many modern big data health applications. (I'm not sure that Hadoop is still used in modern applications but I think it is good to have a mental model of how it works) (more on this later).
 
 
 
