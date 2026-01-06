@@ -4,7 +4,13 @@ date = 2026-01-05T13:31:45Z
 draft = false
 +++
 
+
+These are my personal notes related to the course Distributed Computing for Health Data provided by Health Data Research UK.
+I use this space to consolidate concepts, reflect on lessons, and revisit material over time.
+
 ### Lesson 1 - Key Concepts
+
+---
 
 **The 3 Vs of Big Data**
 
@@ -15,6 +21,8 @@ A classic way to understand big data is through the 3 Vs:
 - **Variety** - how many different forms the data takes
 
 In healthcare, all three Vs show up at once and that’s what makes the domain both challenging and powerful.
+
+---
 
 **How volume, velocity and variety work together**
 
@@ -27,6 +35,8 @@ This is challenging but creates unprecedented potential.
 * Variety ensures we capture the full clinical context, such as combining genetic data and EHR to support personalized medicine.
 
 Distributed computing is the backbone that makes this possible. It allows us to store, process, and analyze data at scale, at speed, and across diverse formats.
+
+---
 
 **Volume: When Data No Longer Fits on One Machine**
 
@@ -50,6 +60,8 @@ To give a sense of scale:
 
 * Claims and billing data are massive and continuously growing
 
+---
+
 **Velocity: How Fast Data Moves and Matters**
 
 Velocity refers to the speed at which data is:
@@ -72,7 +84,9 @@ This is particularly critical for real-time or near-real-time healthcare scenari
 
 * Clinical decision support systems
 
-In these contexts, delayed analysis can mean delayed care—or missed opportunities for intervention.
+In these contexts, delayed analysis can mean delayed care or missed opportunities for intervention.
+
+---
 
 **Variety: Many Forms of Health Data**
 
@@ -98,7 +112,9 @@ Variety also includes:
 
 * Information exchange: interoperability between systems and institutions
 
-* Managing this diversity is one of the hardest—and most important—problems in health data science.
+* Managing this diversity is one of the hardest and most important problems in health data science.
+
+---
 
 **Analytics: Turning Data into Insight**
 
@@ -118,6 +134,8 @@ A typical analytics pipeline looks like:
 
 Depending on the use case, analytics can follow different processing paradigms.
 
+---
+
 
 **Batch vs Streaming Processing**
 
@@ -133,6 +151,8 @@ Used when:
 
 * Examples include population-level analyses, retrospective studies, and large-scale simulations.
 
+---
+
 **Streaming Processing**
 
 Used when:
@@ -143,6 +163,7 @@ Used when:
 
 This is essential for real-time monitoring, alerts, and adaptive clinical systems.
 
+---
 
 **Frameworks for Distributed Computing**
 
@@ -164,7 +185,7 @@ In this course, we focus on three core technologies:
 
 * Apache Kafka – designed for low-latency, real-time data streaming
 
-Together, these tools form the backbone of many modern big data health applications.
+Together, these tools form the backbone of many modern big data health applications. (I'm not sure that Hadoop is still used in modern applications but I think it is good to have a mental model of how it works) (more on this later).
 
 
 
