@@ -1,6 +1,3 @@
 .hugo_build.lock
 public/
-static/
-!static/images/
-!static/images/hugo_logo.png
 resources/_gen
