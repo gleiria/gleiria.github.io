@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>https://gleiria.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 08 Jan 2026 14:05:28 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jan 2026 14:05:28 +0000</lastBuildDate><atom:link href="https://gleiria.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Distributed Computing for Health Data - 3</title>
-      <link>http://localhost:1313/blog/distributed_computing_for_health_data_3/</link>
+      <link>https://gleiria.github.io/blog/distributed_computing_for_health_data_3/</link>
       <pubDate>Thu, 08 Jan 2026 14:05:28 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/distributed_computing_for_health_data_3/</guid>
+      <guid>https://gleiria.github.io/blog/distributed_computing_for_health_data_3/</guid>
       
         <description>&lt;p&gt;These are my personal notes related to the course Distributed Computing for Health Data provided by Health Data Research UK.
 I use this space to consolidate concepts and revisit material over time.&lt;/p&gt;
@@ -32,10 +32,10 @@ I use this space to consolidate concepts and revisit material over time.&lt;/p&g
     
     <item>
       <title>Distributed Computing for Health Data - 2</title>
-      <link>http://localhost:1313/blog/distributed_computing_for_health_data_2/</link>
+      <link>https://gleiria.github.io/blog/distributed_computing_for_health_data_2/</link>
       <pubDate>Tue, 06 Jan 2026 15:03:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/distributed_computing_for_health_data_2/</guid>
+      <guid>https://gleiria.github.io/blog/distributed_computing_for_health_data_2/</guid>
       
         <description>&lt;p&gt;These are my personal notes related to the course Distributed Computing for Health Data provided by Health Data Research UK. I use this space to consolidate concepts and revisit material over time.&lt;/p&gt;
 &lt;h3 id=&#34;lesson-2---big-data-sources&#34;&gt;Lesson 2 - Big Data Sources&lt;/h3&gt;
@@ -56,10 +56,10 @@ I use this space to consolidate concepts and revisit material over time.&lt;/p&g
     
     <item>
       <title>Distributed Computing for Health Data - 1</title>
-      <link>http://localhost:1313/blog/distributed_computing_for_health_data_1/</link>
+      <link>https://gleiria.github.io/blog/distributed_computing_for_health_data_1/</link>
       <pubDate>Mon, 05 Jan 2026 13:31:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/distributed_computing_for_health_data_1/</guid>
+      <guid>https://gleiria.github.io/blog/distributed_computing_for_health_data_1/</guid>
       
         <description>&lt;p&gt;These are my personal notes related to the course Distributed Computing for Health Data provided by Health Data Research UK.
 I use this space to consolidate concepts and revisit material over time.&lt;/p&gt;
@@ -78,10 +78,10 @@ I use this space to consolidate concepts and revisit material over time.&lt;/p&g
     
     <item>
       <title>Microsimulations - Digital Twins</title>
-      <link>http://localhost:1313/blog/microsimulations/</link>
+      <link>https://gleiria.github.io/blog/microsimulations/</link>
       <pubDate>Sat, 01 Nov 2025 11:43:42 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/microsimulations/</guid>
+      <guid>https://gleiria.github.io/blog/microsimulations/</guid>
       
         <description>&lt;p&gt;The idea of using computers to simulate real-world systems has been around for many decades. However, in recent years, with the democratisation and significant cost reductions of computational power, increased data availability, and advancements in artificial inteligence, computational simulations have reached new levels of sophistication and their applications, particularly in the healthcare care domain, are expanding very rapidly. This blog post provides a very brief overview on microsimulations and how integrating machine learning and multi-objective optimisation into these systems can help us to tackle a concrete healthcare challenge: optimising type 1 diabetes screening strategies while minimizing costs associated.&lt;/p&gt;</description>
       
@@ -89,10 +89,10 @@ I use this space to consolidate concepts and revisit material over time.&lt;/p&g
     
     <item>
       <title>Genetic_algorithms</title>
-      <link>http://localhost:1313/posts/genetic_algorithms/</link>
+      <link>https://gleiria.github.io/posts/genetic_algorithms/</link>
       <pubDate>Mon, 03 Mar 2025 18:17:58 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/genetic_algorithms/</guid>
+      <guid>https://gleiria.github.io/posts/genetic_algorithms/</guid>
       
         <description>&lt;p&gt;Adding test here vdvdffdgflw;gjrelkw;gjrefklwghjnkrfngnfdlksn&lt;/p&gt;</description>
       
@@ -100,10 +100,10 @@ I use this space to consolidate concepts and revisit material over time.&lt;/p&g
     
     <item>
       <title></title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://gleiria.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://gleiria.github.io/contact/</guid>
       
         <description>&lt;p&gt;⚠️ under construction ⚠️&lt;/p&gt;
 &lt;p&gt;Please do get in touch if you have any questions or comments.&lt;/p&gt;
@@ -113,10 +113,10 @@ I use this space to consolidate concepts and revisit material over time.&lt;/p&g
     
     <item>
       <title></title>
-      <link>http://localhost:1313/home/</link>
+      <link>https://gleiria.github.io/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/</guid>
+      <guid>https://gleiria.github.io/home/</guid>
       
         <description>&lt;p&gt;Hi, I&amp;rsquo;m Gonçalo, welcome to my personal website.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m a Graduate Research Assistant in the Department of Computer Science at the University of Exeter in the United Kingdom. Currently, I&amp;rsquo;m working at the intersection of research software engineering, the development of microsimulations, and multi-objective optimisation, with a focus on decision analytic modelling in health care. Prior to this, I have worked as a bioinformatician, mainly involded in projects using single-cell RNA sequencing data analysis to explore the underlying molecular mechanisms of health, development and disease. I’m passionate about software engineering, data engineering, and continuous learning. I use this website as a place to document what I’m learning and write about topics I’m actively exploring.&lt;/p&gt;</description>

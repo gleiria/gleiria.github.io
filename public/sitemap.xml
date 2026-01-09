@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://gleiria.github.io/</loc>
     <lastmod>2026-01-08T14:05:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://gleiria.github.io/blog/</loc>
     <lastmod>2026-01-08T14:05:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/distributed_computing_for_health_data_3/</loc>
+    <loc>https://gleiria.github.io/blog/distributed_computing_for_health_data_3/</loc>
     <lastmod>2026-01-08T14:05:28+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/distributed_computing_for_health_data_2/</loc>
+    <loc>https://gleiria.github.io/blog/distributed_computing_for_health_data_2/</loc>
     <lastmod>2026-01-06T15:03:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/distributed_computing_for_health_data_1/</loc>
+    <loc>https://gleiria.github.io/blog/distributed_computing_for_health_data_1/</loc>
     <lastmod>2026-01-05T13:31:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://gleiria.github.io/posts/</loc>
     <lastmod>2026-01-05T13:29:25+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/microsimulations/</loc>
+    <loc>https://gleiria.github.io/blog/microsimulations/</loc>
     <lastmod>2025-11-01T11:43:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/genetic_algorithms/</loc>
+    <loc>https://gleiria.github.io/posts/genetic_algorithms/</loc>
     <lastmod>2025-03-03T18:17:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://gleiria.github.io/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>https://gleiria.github.io/home/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://gleiria.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://gleiria.github.io/tags/</loc>
   </url>
 </urlset>
