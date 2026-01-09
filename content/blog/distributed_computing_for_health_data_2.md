@@ -5,7 +5,7 @@ draft = false
 +++
 
 
-These are my personal notes related to the course Distributed Computing for Health Data provided by Health Data Research UK. I use this space to consolidate concepts, reflect on lessons, and revisit material over time.
+These are my personal notes related to the course Distributed Computing for Health Data provided by Health Data Research UK. I use this space to consolidate concepts and revisit material over time.
 
 ### Lesson 2 - Big Data Sources
 
@@ -15,11 +15,11 @@ These are my personal notes related to the course Distributed Computing for Heal
 
 There are 5 data types:
 
-* Structured (e.g. Health Electronic Records) 
+* Structured (e.g. Electronic Health Records) 
 * Semi-structured (EHR and vital-signs for a patien but not vital-signs for a second patient)
 * Unstructured (CT scan)
 * Time series (ECG)
-* Sequence data (RNA or DNA sequencing)
+* Sequence data (RNA or DNA sequencing for example)
 
 ---
 
@@ -44,12 +44,12 @@ Example for relational:
 A table for Patients (ID, name, DOB) linked to a Visits table (visit_ID, patient_ID, date, diagnosis).
 Query: "Find all patients over 65 with hypertension diagnoses in 2025."
 
-Transactional databases are a subset of relational databases optimised for high-speed transactions (e.g., real-time updates, concurrent access).Focus on short, frequent operations (e.g., appointment scheduling, prescription updates).
+Transactional databases are a subset of relational databases optimised for high-speed transactions (e.g., real-time updates, concurrent access). Focus on short, frequent operations (e.g., appointment scheduling, prescription updates).
 
 Example for transactional:
 
-A system for real-time bed assignment in an intensive-care, where multiple nurses update patient statuses concurrently.
-Transaction: "Assign Patient X to Bed 5 and mark as ‘occupied’."
+A system for real-time bed assignment in an intensive-care unit, where multiple nurses update patient statuses concurrently.
+Transaction: "Assign Patient X to Bed 5 and mark bed as 'occupied'."
 
 Again, Transactional databases are optimised for:
 
@@ -72,6 +72,24 @@ A transactional database can be tiny or huge. Size is not the defining feature.
 * Semi-structured data is ideal for health systems because it balances organisation (for easy access) and flexibility (to handle real-world variability)
 * It’s widely used in distributed computing to integrate data from diverse sources like wearables, EHRs without requiring a rigid schema. 
 
+This is usually saved in structures like Python dictionaries with key-value pairs:
+
+```python
+patient_record = {
+    "patient_id": 12345,
+    "name": "Alan Turing",
+    "vital_signs": {  # Nested dictionary (hierarchy)
+        "blood_pressure": {"systolic": 120, "diastolic": 80},
+        "heart_rate": 72,
+    },
+    "medications": ["aspirin", "lisinopril"],  # List of values
+    "allergies": None  # Missing field (flexibility)
+}
+```
+* Tags/Metadata: Keys like "patient_id" or "vital_signs" define the structure.
+* Hierarchy: Nested dictionaries (e.g., "vital_signs") create levels.
+* Flexibility: Not all records need the same fields (another patient might lack "allergies").
+
 ---
 
 **Unstructured Data**
@@ -81,7 +99,7 @@ A transactional database can be tiny or huge. Size is not the defining feature.
 * Diverse formats: text, image, audio, video
 * Although stored in specific formats such as jpeg, mp3, mp4, etc… this type of data requires specific tools and models for processing, analysis and interpretation
 
-Challenges: Harder to search, analyze, or integrate into systems without advanced tools like natural language processing (NLP), computer vision, or machine learning.
+Harder to search, analyze, or integrate into systems without advanced tools like natural language processing, computer vision, or machine learning.
 
 ---
 
@@ -128,12 +146,11 @@ In big data we explore both approaches although horizontal scalability is usuall
 
 **Data Distribution**
 
-* An important feature of big data tools is to support for data distribution and to what extend it is transparent to the user
+* An Important feature of tools is to support for data distribution and to what extend it is transparent to the user
+* When scaling applications from a single machine to a cluster, data is split into small chunks and distributed across all available resources
 
-* When scaling our application from a single machine to a cluster, data is split into small chunks and distributed across all available resources
 
-
-Data distribution is essential for scaling big data applications. Tools like Hadoop and Spark make it transparent, so you focus on analysis, not infrastructure. This is especially useful in health data, where datasets (e.g., patient records, imaging) are often massive and complex.
+Data distribution is essential for scaling big data applications. Tools like Hadoop and Spark make it transparent, so you focus on analysis, not infrastructure.
 
 ---
 
@@ -141,7 +158,7 @@ Data distribution is essential for scaling big data applications. Tools like Had
 
 * Providing a set of machines with the same application called but different pieces of data, it is a relatively simple strategy to implement big data applications.
 
-* Later in the course we will talk about MapReduce: A programming model that uses a “divide-and-conquer” approach
+* Later we will explore MapReduce: A programming model that uses a “divide-and-conquer” approach
 * Map: processing data stored in each machine
 * Reduce: merge partial results to generate the final output
 
@@ -149,6 +166,7 @@ Data is distributed across nodes of a cluster and processed in parallel (map pha
 
 (more details with code down the line)
 
+---
 
 **Batch vs Streaming (real-time) processing**
 

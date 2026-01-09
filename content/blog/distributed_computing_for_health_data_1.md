@@ -6,7 +6,7 @@ draft = false
 
 
 These are my personal notes related to the course Distributed Computing for Health Data provided by Health Data Research UK.
-I use this space to consolidate concepts, reflect on lessons, and revisit material over time.
+I use this space to consolidate concepts and revisit material over time.
 
 ### Lesson 1 - Key Concepts
 
