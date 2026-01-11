@@ -199,7 +199,7 @@ Time-series and genome sequencing data are special cases. They can be processed 
 * Larger samples: modelling and analysis
 * Only move to fully distributed approach when all initial questions and checks are addressed.
 
-Again, time series and sequence data provide extra complexity due to their ordered nature and other intrinsic characteriscs like outliers, seosonality, etc…
+Again, time series and sequence data provide extra complexity due to their ordered nature and other intrinsic characteriscs like outliers, seosonality. 
 
 
 
