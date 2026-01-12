@@ -10,7 +10,7 @@ I use this space to consolidate concepts and revisit material over time.
 ### Lesson 4 - Big Data Processing Tools: Hadoop
 
 ---
-
+
 **Hadoop**
 
 * Framework for distributed processing of large datasets
