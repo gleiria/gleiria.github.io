@@ -19,7 +19,7 @@ I use this space to consolidate concepts and revisit material over time.
 * Hadoop is an 'ecosystem' comprised of core and specific modules, each providing a different service
 * At its core, Hadoop has a distributed file system and a distributed processing layer, HDFS and MapReduce
 
-Fault tolerance, in distributed systems, is the capability to continue operating smoothly despite failures or errors in one or more of its components. This resilience is crucial for maintaining system reliability, availability, and consistency.
+Fault tolerance is the capability to continue operating smoothly despite failures or errors in one or more components of a distributed system. This resilience is crucial for maintaining system reliability, availability, and consistency.
 
 ---
 
@@ -27,14 +27,14 @@ Fault tolerance, in distributed systems, is the capability to continue operating
 
 * Hadoop has an abstract notion of file system to allow access to local and remote (cloud-based) file systems for reading, writing and managing files
 
-I need to check this here but I think they talk about "abstract notion of a file system" because Hadoop does not assume one specific file system implementation. It can work with many different file systems via a common interface.
+"Abstract notion of a file system" in the way that Hadoop does not assume one specific file system implementation. It can work with many different file systems via a common interface.
 
 * HDFS is one implementation to store very large files with a “streaming data access” pattern (continuous read operations).
 
 * HDFS has 3 main abstractions:
-* Blocks (block refers to the minimum amount of data that can be read or written on a disk)
-* Name node (master node) 
-* Datanode(worker nodes) 
+    * Blocks (block refers to the minimum amount of data that can be read or written on a disk)
+    * Name node (master node) 
+    * Datanode(worker nodes) 
 
 Again, block refers to the minimum amount of data that can be read or written on disk.
 HDFS uses large blocks. Blocks are divided into 128MB blocks and stored as independent units across data nodes. Each data block is replicated in 3 nodes.
@@ -71,7 +71,7 @@ delete(): # Removes files or directories.
 
 * A programming model that breaks the processing into two phases (map and reduce), with corresponding functions.
 
-Just some notes I have from previously learning about functional programming and link to this:
+Just some notes I have from previously learning about functional programming which link to this:
 
 **Functions as first-class citizens:**
 
@@ -160,6 +160,7 @@ out:
 ```python
 120
 ```
+---
 
 **Why Reduce deserves special attention as it often introduces scalability challenges:**
 
