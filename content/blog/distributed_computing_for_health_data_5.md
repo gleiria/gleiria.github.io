@@ -116,7 +116,11 @@ Then using PySpark:
 
 ---
 
-**There will be more on Spark in the next lessons but I found this piece on AWS website quite nice:**
+
+
+
+### Spark vs Hadoop (taken from AWS website){#dist-comp-rationale}
+
 
 Apache Spark is an open-source, distributed processing system used for big data workloads. It utilizes in-memory caching, and optimized query execution for fast analytic queries against data of any size. It provides development APIs in Java, Scala, Python and R, and supports code reuse across multiple workloads—batch processing, interactive queries, real-time analytics, machine learning, and graph processing. 
 
