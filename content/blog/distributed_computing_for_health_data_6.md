@@ -198,13 +198,15 @@ coalasce()
 ```
 ---
 
-*Users can perform 2 types of RDD operations:*
+**Users can perform 2 types of RDD operations:**
 
 * transformations -> operations that create a new RDD, such as map() and filter()
 * actions -> instruct Spark to apply computation and pass the result back to the Spark driver
 ---
 
 **Transformations**
+
+Transformations are functions that define how data is transformed.
 
 Example of transformation:
 
@@ -221,8 +223,8 @@ An important aspect of RDD transformations is that they are lazy operations (det
 **Actions**
 
 * Operations that return a result to the driver program or write it to storage, such as count() and take()
-* They 'force' the execution of the transformations required for an RDD
-* Everytime an action is called Spark will check all the transformations that were defined over a RDD and evaluate the best way of executing them
+* They 'force' the execution of the transformations required for an RDD (this is linked to lazy evaluations)
+* Everytime an action is called Spark will check all the transformations that were defined over a RDD and evaluate the best way of executing them (linked to lazy evaluations)
 ---
 **Lazy evaluation**
 
