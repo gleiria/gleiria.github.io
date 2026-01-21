@@ -1,5 +1,5 @@
 +++
-title = 'Distributed Computing for Health Data - 7'
+title = 'Distributed Computing for Health Data - 7 - Spark SQL and DataFrames '
 date = 2026-01-20T18:09:47Z
 draft = false
 +++

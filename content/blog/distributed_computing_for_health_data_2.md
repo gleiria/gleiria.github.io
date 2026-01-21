@@ -1,5 +1,5 @@
 +++
-title = 'Distributed Computing for Health Data - 2'
+title = 'Distributed Computing for Health Data - 2 - Big Data Sources'
 date = 2026-01-06T15:03:10Z
 draft = false
 +++
