@@ -16,9 +16,9 @@ These are my personal notes related to the course Distributed Computing for Heal
 There are 5 data types:
 
 * Structured (e.g. Electronic Health Records) 
-* Semi-structured (EHR and vital-signs for a patien but not vital-signs for a second patient)
+* Semi-structured ( e.g. EHR and vital-signs for a patien but not vital-signs for a second patient)
 * Unstructured (CT scan)
-* Time series (ECG)
+* Time-series (ECG)
 * Sequence data (RNA or DNA sequencing for example)
 
 ---
@@ -176,7 +176,7 @@ Batch:
 
 * Typically used to processing large amounts of data
 
-* nIdeal for tasks that do not require real-time processing
+* Ideal for tasks that do not require real-time processing
 
 Event Streams:
 

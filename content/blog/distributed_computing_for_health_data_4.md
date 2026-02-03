@@ -105,8 +105,6 @@ map(f, C) is a function map that takes another function f() and a collection C o
 
 Calling map(f, C) applies the function f(x) to every data item x in a collection C and returns the resulting values as a new collection of the same size. 
 
-Although I use use Python for the examples bellow, Map and Reduce concepts apply to distributed systems such as Hadoop and Spark.
-
 ```python
 
 list_a = ["goncalo","beatriz","helena", "maria]
