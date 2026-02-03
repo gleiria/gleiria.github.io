@@ -34,7 +34,7 @@ This is challenging but creates unprecedented potential.
 
 * Variety ensures we capture the full clinical context, such as combining genetic data and EHR to support personalized medicine.
 
-Distributed computing is the backbone that makes this possible. It allows us to store, process, and analyze data at scale, at speed, and across diverse formats.
+Distributed computing is what makes this possible. It allows us to store, process, and analyze data at scale, at speed, and across diverse formats.
 
 ---
 
@@ -179,11 +179,11 @@ A key idea is that data is distributed across multiple machines, and the user de
 
 In this course, we focus on three core technologies:
 
-* Hadoop – based on the MapReduce programming model
+* **Hadoop** – based on the MapReduce programming model
 
-* Apache Spark – enables data parallelism with fault tolerance
+* **Apache Spark** – enables data parallelism with fault tolerance
 
-* Apache Kafka – designed for low-latency, real-time data streaming
+* **Apache Kafka** – designed for low-latency, real-time data streaming
 
 Together, these tools form the backbone of many modern big data health applications. (I'm not sure that Hadoop is still used in modern applications but I think it is good to have a mental model of how it works) (more on this later).
 

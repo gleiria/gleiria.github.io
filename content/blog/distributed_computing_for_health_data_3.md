@@ -28,7 +28,7 @@ I use this space to consolidate concepts and revisit material over time.
 * And each node receives a batch of data to process
 * Scales well when model fits in single machine memory 
 
-Just a note here that 'model' is simply the computation or piece of code being applied to the data.
+Here 'model' means the computation or piece of code applied to the data.
 
 ---
 
