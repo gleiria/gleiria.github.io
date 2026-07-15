@@ -1,35 +1,11 @@
+Hi, I'm Gonçalo, welcome to my personal website.
 
-Hi, I'm Gonçalo, welcome to my personal website. 
+I'm a software and data engineer with a background in computational health research. Over the past few years I've built Python applications, data pipelines and simulation platforms that support healthcare decision-making, combining software engineering with data-intensive computing.
 
-I'm a Graduate Research Assistant in the Department of Computer Science at the University of Exeter in the United Kingdom. Currently, I'm working at the intersection of research software engineering, the development of microsimulations, and multi-objective optimisation, with a focus on decision analytic modelling in health care. Prior to this, I have worked as a bioinformatician, mainly involded in projects using single-cell RNA sequencing data analysis to explore the underlying molecular mechanisms of health, development and disease. I’m also passionate about software engineering, data engineering, and continuous learning. I use this website as a place to document what I’m learning and write about topics I’m actively exploring.
+I'm particularly interested in backend engineering, cloud technologies and data engineering, and I enjoy learning by building projects. This website is where I [document](/blog/) what I'm working on, share things I'm learning, and write about what I am interested in.
 
-Beyond my professional life, I have a huge passion for surfing and I love spending my free time in the ocean either surfing or swimming in open water. 
+Outside of work I'm usually in the ocean either surfing, swimming, or spearfishing.
 
-Please have a look at my [blog](/blog/), where I write about topics I am currently learning and interested in. 
-
-Love to all :sunny: :sunny: :sunny:.
-
+Thanks for stopping by.
 
 {{< figure src="/images/ribeira.jpg" title="Ribeira d'Ilhas, Ericeira, Portugal." >}}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
