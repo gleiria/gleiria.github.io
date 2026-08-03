@@ -4,10 +4,6 @@ date = 2026-07-16T14:30:53+01:00
 draft = false
 +++
 
-### Update (August 2026):
-This article describes the deployment of the data engineering pipeline to Microsoft Azure. A follow-up article covering the Django web application deployment is currently being baked.
-
----
 
 This project started as a take-home assignment for a data engineering role. After, as part of my learning journey into cloud computing, and after completing Azure AZ-900 and DP-900 certifications, I wanted to get hands-on practice so I deployed the pipeline to Microsoft Azure. Here, I share the main steps I took to make that happen.
 
@@ -32,3 +28,9 @@ Finally, I wanted the pipeline to run automatically every day at 5am without any
 To complete the deployment workflow, I also extended the project with a simple **Continuous Deployment (CD)** pipeline using GitHub Actions. **Continuous Integration (CI)** was already in place, automatically running the project's unit tests on every push. The new deployment stage builds a fresh Docker image whenever changes are merged into the main branch and pushes it to **Azure Container Registry**. As a result, the next scheduled execution of the pipeline automatically uses the latest version of the application without requiring any manual deployment steps.
 
 {{< figure src="/images/cloud_diagram.png" title="The pipeline is deployed on Microsoft Azure using Docker containers. GitHub Actions automatically runs tests on every push and builds/pushes the Docker image to Azure Container Registry when changes are merged into the main branch. Azure Data Factory triggers the Azure Container Instance daily at 05:00, which executes the pipeline and stores the resulting Parquet dataset in Azure Blob Storage.">}}
+---
+
+### Update (August 2026):
+This article describes the deployment of the data engineering pipeline to Microsoft Azure. A follow-up article covering the Django web application deployment is currently being baked.
+
+---
