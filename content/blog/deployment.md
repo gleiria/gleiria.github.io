@@ -4,6 +4,11 @@ date = 2026-07-16T14:30:53+01:00
 draft = false
 +++
 
+### Update (August 2026):
+This article describes the deployment of the data engineering pipeline to Microsoft Azure. A follow-up article covering the Django web application deployment is currently being baked.
+
+---
+
 This project started as a take-home assignment for a data engineering role. After, as part of my learning journey into cloud computing, and after completing Azure AZ-900 and DP-900 certifications, I wanted to get hands-on practice so I deployed the pipeline to Microsoft Azure. Here, I share the main steps I took to make that happen.
 
 A hypothetical team of data scientists asks me, as part of the data engineering team, to a build Dockerised data pipeline in Python to collect daily meteorological data from the publicly available OpenWeather API (https://openweathermap.org/). The GitHub repository for the project can be found [here](https://github.com/gleiria/data-engineering-pipeline). There you can find a detailed README describing the project's architecture, design decisions, implementation, and instructions on how to run it locally. This post focuses exclusively on the deployment to Microsoft Azure.
