@@ -140,7 +140,7 @@ Libraries
 
 Looking back, I probably spent far more time understanding all the deployment process than actually writing the code to make that happen. But that was exactly the point of this project. I wanted to move beyond running applications locally and understand what actually happens when software is deployed to the cloud. There is still plenty to learn and improve, but I now have a much better mental model of how all the pieces fit together. As always, I will keep documenting what I learn as I build my next project. 
 
-Thanks for reading :rocket:
+Thanks for reading :rocket:.
 
 
 
