@@ -30,7 +30,5 @@ To complete the deployment workflow, I also extended the project with a simple *
 {{< figure src="/images/cloud_diagram.png" title="The pipeline is deployed on Microsoft Azure using Docker containers. GitHub Actions automatically runs tests on every push and builds/pushes the Docker image to Azure Container Registry when changes are merged into the main branch. Azure Data Factory triggers the Azure Container Instance daily at 05:00, which executes the pipeline and stores the resulting Parquet dataset in Azure Blob Storage.">}}
 ---
 
-### Update (August 2026):
-This article describes the deployment of the data engineering pipeline to Microsoft Azure. A follow-up article covering the Django web application deployment is currently being baked.
 
----
+
