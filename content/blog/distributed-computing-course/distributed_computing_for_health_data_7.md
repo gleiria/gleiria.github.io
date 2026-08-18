@@ -2,6 +2,7 @@
 title = 'Distributed Computing for Health Data - 7 - Spark SQL and DataFrames'
 date = 2026-01-20T18:09:47Z
 draft = false
+aliases = ["/blog/distributed_computing_for_health_data_7/"]
 +++
 
 

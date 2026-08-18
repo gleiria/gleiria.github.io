@@ -2,6 +2,7 @@
 title = 'Distributed Computing for Health Data - 3 - Distributed Computing'
 date = 2026-01-08T14:05:28Z
 draft = false
+aliases = ["/blog/distributed_computing_for_health_data_3/"]
 +++
 
 

@@ -2,6 +2,7 @@
 title = 'Distributed Computing for Health Data - 10 - Kafka Basic Usage'
 date = 2026-01-30T06:29:24Z
 draft = false
+aliases = ["/blog/distributed_computing_for_health_data_10/"]
 +++
 
 These are my personal notes related to the course Distributed Computing for Health Data provided by Health Data Research UK.

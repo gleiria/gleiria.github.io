@@ -2,6 +2,7 @@
 title = 'Distributed Computing for Health Data - 4 - Hadoop'
 date = 2026-01-12T06:41:44Z
 draft = false
+aliases = ["/blog/distributed_computing_for_health_data_4/"]
 +++
 
 These are my personal notes related to the course Distributed Computing for Health Data provided by Health Data Research UK.

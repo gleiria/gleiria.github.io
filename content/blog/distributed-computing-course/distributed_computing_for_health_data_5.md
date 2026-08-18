@@ -2,6 +2,7 @@
 title = 'Distributed Computing for Health Data - 5 - Hadoop Basic Usage'
 date = 2026-01-13T07:25:55Z
 draft = false
+aliases = ["/blog/distributed_computing_for_health_data_5/"]
 +++
 
 
