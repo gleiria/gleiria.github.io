@@ -2,6 +2,7 @@
 title = 'Distributed Computing for Health Data - 8 - Spark Basic Usage'
 date = 2026-01-22T07:42:49Z
 draft = false
+aliases = ["/blog/distributed_computing_for_health_data_8/"]
 +++
 
 

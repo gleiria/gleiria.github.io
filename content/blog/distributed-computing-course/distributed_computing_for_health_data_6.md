@@ -2,6 +2,7 @@
 title = 'Distributed Computing for Health Data - 6 - Spark and Spark Components'
 date = 2026-01-18T10:08:56Z
 draft = false
+aliases = ["/blog/distributed_computing_for_health_data_6/"]
 +++
 
 
