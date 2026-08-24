@@ -5,6 +5,7 @@ draft = false
 +++
 
 I am developing an LLM-powered data analyst for a fictional SaaS company. The idea is that a user can ask questions about the business in natural language, and the agent can use the database to answer them if needed. I am using Pydantic-AI to connect the agent to Google's Gemini models and Django to handle the application and data layer. 
+
 **The SaaS Company**
 
 I created a fictional SaaS company and generated synthetic data for it. The goal is not to create a perfect simulation of a real business but to create a small coherent world that I can use to explore the AI-agent architecture and that the agent can reason about. As the project evolves, I will gradually add more data and relationships. This is literally just me putting the pieces together.
