@@ -11,7 +11,7 @@ I am developing an LLM-powered data analyst for a fictional SaaS company. The id
 I created a fictional SaaS company and generated synthetic data for it. The goal is not to create a perfect simulation of a real business but to create a small coherent world that I can use to explore the AI-agent architecture and that the agent can reason about. As the project evolves, I will gradually add more data and relationships. This is literally just me putting the pieces together.
 
 
-For the first version, I generated six months of data (01-01-2026 to 30-06-2026) for 1,000 customers. The initial data model looks like this:
+For the first version, I generated six months of data (01-01-2026 to 30-06-2026) for 10,000 customers. The initial data model looks like this:
 
 
 ```
